@@ -1,0 +1,17 @@
+/* chapter07 css pile */
+
+h1 {
+    background-color:pink;
+}
+
+#blue {
+    background-color:yellow;
+    color:blue;
+    font-weight:bold;
+}
+
+body {
+    background-image:url("img/B.flower.jpg");
+    background-repeat:no-repeat;
+    /*background-color:#B2EBF4;*/
+}
